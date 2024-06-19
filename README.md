@@ -67,12 +67,7 @@ La informació s'ha trobat a les diferents webs, s'ha revisat a dia 19/06/2024 i
 **[Registre de Grups d'interès](https://governobert.gencat.cat/ca/transparencia/grups-interes/)**
 * **Destinataris:** persones físiques o jurídiques de caràcter privat que fan actuacions de participació activa en polítiques públiques o en processos de presa de decisions a Catalunya amb la finalitat d’influir en l'orientació d'aquestes polítiques en defensa d'un interès propi o de tercers, o d'un interès general.
 * **Observacions:** la inscripció és obligatòria per tal de poder exercir activitat d'influència, a més, s'ha de declarar qualsevol activitat feta davant d'un servidor públic amb la voluntat d’influir (més informació a la web).
-* **Avantatges:** més facilitat de relació i participació i un major prestigi
-
-**[Registre de grups d’interès del Parlament](https://www.parlament.cat/pcat/transparencia-i-participacio/grups-interes/)**
-* **Destinataris:** veure resposta a "Qui s'ha d'inscriure al Registre" a la seva web.
 * **Avantatges:** més facilitat de relació i participació i un major prestigi.
-* **Observacions:** no confondre aquest registre amb el Registre de Grups d'interès de la Generalitat.
 
 **[Associacions declarades d'utilitat pública](https://justicia.gencat.cat/ca/ambits/dret_i_entitats_juridiques/associacions/associacions_utilitat_publica/)**
 * **Destinataris:** reconeixement que es dona a certes entitats (explicat al principi de la seva web).
@@ -85,7 +80,15 @@ La informació s'ha trobat a les diferents webs, s'ha revisat a dia 19/06/2024 i
 **[Creus de Sant Jordi](https://presidencia.gencat.cat/ca/ambits_d_actuacio/premis/creus-de-sant-jordi/)**
 * **Destinataris:** distinció que reconeix pels seus mèrits persones o entitats que han prestat serveis destacats a Catalunya en defensa de la seva identitat o en el pla cívic i cultural.
 
+#Parlament
+
+**[Registre de grups d’interès del Parlament](https://www.parlament.cat/pcat/transparencia-i-participacio/grups-interes/)**
+* **Destinataris:** veure resposta a "Qui s'ha d'inscriure al Registre" a la seva web.
+* **Avantatges:** més facilitat de relació i participació i un major prestigi.
+* **Observacions:** no confondre aquest registre amb el Registre de Grups d'interès de la Generalitat.
+
 # Ajuntament
+
 **[Inscripció al Registre Municipal d'Entitats](https://seu.badalona.cat/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS_CATSERV&DETALLE=6269000171155677699500&lang=ca)**
 * **Requisits:** l'entitat ha d'estar inscrita, o en procés d'inscripció, en el Registre d'Entitats Jurídiques del Departament de Justícia de la Generalitat o en el registre sectorial que correspongui d'acord amb el seu àmbit d'actuació.
 
